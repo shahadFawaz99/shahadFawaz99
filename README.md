@@ -51,7 +51,7 @@ I enjoy exploring how data can explain patterns, support decisions, and uncover 
 ## 📫 Contact
 - 📍 Saudi Arabia  
 - ✉️ (shahadfwaz2@gmail.com)  
-- 🔗 LinkedIn: ()  
+- 🔗 LinkedIn: (https://www.linkedin.com/in/shahad-aljahdali-/)  
 
 ---
 
