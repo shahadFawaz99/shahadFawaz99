@@ -1,4 +1,4 @@
-# Hi, I'm Shahad Aljahdali 👋  
+# Hi, I'm Shahad Aljahdali 
 ### Data Science • Mathematics Graduate • Passionate About Learning & Building
 
 I'm Shahad — a data-driven problem solver with a strong foundation in Mathematics.  
@@ -6,17 +6,17 @@ I enjoy exploring how data can explain patterns, support decisions, and uncover 
 
 ---
 
-## 🌱 What I’m Interested In
-- 📊 Time Series Forecasting & Trend Analysis  
-- 📈 Data Visualization & Turning Data Into Clear Stories  
-- 🤖 Machine Learning (especially practical, real-world applications)  
-- 🧩 Understanding patterns, structures, and relationships in data  
-- 🧪 Building clean, organized analytical workflows  
-- 🎨 Combining logic + creativity in technical projects
+## What I’m Interested In
+- Time Series Forecasting & Trend Analysis  
+- Data Visualization & Turning Data Into Clear Stories  
+- Machine Learning (especially practical, real-world applications)  
+- Understanding patterns, structures, and relationships in data  
+- Building clean, organized analytical workflows  
+- Combining logic + creativity in technical projects
 
 ---
 
-## 💼 What I Enjoy Working On
+## What I Enjoy Working On
 - Cleaning and organizing messy real-world datasets  
 - Experimenting with new models and comparing their performance  
 - Designing dashboards or simple interfaces that make insights easier to understand  
@@ -25,7 +25,7 @@ I enjoy exploring how data can explain patterns, support decisions, and uncover 
 
 ---
 
-## 🎯 My Personal Goals
+## My Personal Goals
 - Become stronger in data analysis and modeling across different domains  
 - Build meaningful data projects that reflect my interests  
 - Strengthen my skills in Python, data handling, Machine Learning, and Deep Learning  
@@ -33,7 +33,7 @@ I enjoy exploring how data can explain patterns, support decisions, and uncover 
 
 ---
 
-## 🛠️ Tools & Languages I Use
+## Tools & Languages I Use
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
@@ -48,7 +48,7 @@ I enjoy exploring how data can explain patterns, support decisions, and uncover 
 
 ---
 
-## 📫 Contact
+## Contact
 - 📍 Saudi Arabia  
 - ✉️ (shahadfwaz2@gmail.com)  
 - 🔗 LinkedIn: (https://www.linkedin.com/in/shahad-aljahdali-/)  
