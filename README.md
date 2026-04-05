@@ -1,5 +1,6 @@
 # Hi, I'm Shahad Aljahdali 
-### Data Science • Mathematics Graduate • Passionate About Learning & Building
+### Data Science 
+Passionate About Learning & Building
 
 I'm Shahad — a data-driven problem solver with a strong foundation in Mathematics.  
 I enjoy exploring how data can explain patterns, support decisions, and uncover insights that matter.
@@ -21,17 +22,7 @@ I enjoy exploring how data can explain patterns, support decisions, and uncover 
 - Experimenting with new models and comparing their performance  
 - Designing dashboards or simple interfaces that make insights easier to understand  
 - Learning new tools and applying them immediately in small projects  
-- Improving my Python skills and exploring libraries I haven't used yet  
 
----
-
-## My Personal Goals
-- Become stronger in data analysis and modeling across different domains  
-- Build meaningful data projects that reflect my interests  
-- Strengthen my skills in Python, data handling, Machine Learning, and Deep Learning  
-- Keep improving step-by-step and learning something new every day  
-
----
 
 ## Tools & Languages I Use
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
@@ -52,7 +43,3 @@ I enjoy exploring how data can explain patterns, support decisions, and uncover 
 - 📍 Saudi Arabia  
 - ✉️ (shahadfwaz2@gmail.com)  
 - 🔗 LinkedIn: (https://www.linkedin.com/in/shahad-aljahdali-/)  
-
----
-
-Thanks for visiting my profile ✨  
